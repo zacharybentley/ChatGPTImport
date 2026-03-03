@@ -1,0 +1,10 @@
+# Ignore user data in inputs
+inputs/ChatGPT-Conversations/*
+!inputs/ChatGPT-Conversations/.gitkeep
+
+inputs/ChatGPT-overview/*
+!inputs/ChatGPT-overview/.gitkeep
+
+# Ignore generated outputs
+outputs/*
+!outputs/.gitkeep
